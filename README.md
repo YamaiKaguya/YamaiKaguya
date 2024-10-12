@@ -1,4 +1,4 @@
-<p align="center">Hi! my name is Yamai, and I am a front-end web developer.</p>
+<p align="center">Hi! my name is Yamai, I am a front-end web developer.</p>
 
 <p align="left">- Languages & frameworks:</p>
 <p align="center">
