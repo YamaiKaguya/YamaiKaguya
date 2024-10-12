@@ -3,7 +3,7 @@
 <p align="left">Languages & frameworks:</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,bootstrap,htmx,php,java,py,c++,cs,sass,svelte,swift,jest,mongodb,mysql,nextjs,nodejs,npm,vite,yarn,express,flutter,git,github,gitlab,go,bash,powershell,azure,&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,bootstrap,htmx,php,java,py,cpp,cs,sass,svelte,yarn,swift,jest,mongodb,mysql,nextjs,nodejs,express,flutter,npm,vite,git,bash,powershell&theme=dark" />
   </a>
 </p>
 
