@@ -2,6 +2,7 @@
 
 ![YamaiKaguya's GitHub stats](https://github-readme-stats.vercel.app/api?username=YamaiKaguya&show_icons=true&theme=radical)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
 <a href="https://fb.com/frewen rei cereno dalisay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="frewen rei cereno dalisay" height="30" width="40" /></a>
