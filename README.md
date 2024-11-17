@@ -1,11 +1,10 @@
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,bootstrap,htmx,php,sass,java,py,jest,mysql,mongodb,nextjs,jquery,nodejs,express,npm,vite,git,windows,linux,arch,neovim,bun,bash,powershell&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,bootstrap,php,java,py,mysql,mongodb,nextjs,nodejs,express,npm,vite,git,bash,powershell&theme=dark" />
 
     
   </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,eclipse,figma,phpstorm,postman,pr,visualstudio,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=htmx,sass,jest,jquery,bun&theme=dark" />
   </a>
 </p>
 
