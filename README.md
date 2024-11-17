@@ -5,7 +5,7 @@
     
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,,docker,eclipse,figma,phpstorm,postman,pr,visualstudio,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=docker,eclipse,figma,phpstorm,postman,pr,visualstudio,vscode&theme=dark" />
   </a>
 </p>
 
