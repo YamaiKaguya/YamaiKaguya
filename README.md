@@ -65,10 +65,11 @@ Here are some of the projects I’ve worked on:
 - [Discord yamai#YamaiKaguya](https://discord.com/)
 - [Personal Website/Portfolio (Nein)](#)
 
+<!-- 
 ## 💬 Ask me about
 
 - Web development (React, Node.js, etc.)
-
+-->
 ---
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
