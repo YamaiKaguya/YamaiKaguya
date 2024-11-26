@@ -42,9 +42,11 @@ I'm **YamaiKaguya** a developer and open-source enthusiast who loves building an
 ## 📈 GitHub Stats
 
 [![YamaiKaguya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YamaiKaguya&custom_title=YamaiKaguya's%20Github%20Contributions&bg_color=0d1117&point=D3D3D3&border=true&color=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/? 
- username=YamaiKaguya&langs_count=2&layout=compact&theme=custom&title_color=ffffff&text_color=cccccc&icon_color=B95CF4&bg_color=0d1117&border_color=878784&border_radius=0)
-## 📂 My Projects
+<p align="center">
+ 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YamaiKaguya&langs_count=2&layout=compact&theme=custom&title_color=ffffff&text_color=cccccc&icon_color=B95CF4&bg_color=0d1117&border_color=878784&border_radius=0)
+</p>
+ ## 📂 My Projects
 
 Here are some of the projects I’ve worked on:
 
