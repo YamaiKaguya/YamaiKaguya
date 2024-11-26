@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I'm a passionate developer and open-source contrib
 
 ## 📈 GitHub Stats
 
-[![YamaiKaguya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YamaiKaguya&custom_title=Lifetime%20Stats&bg_color=87c981&border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![YamaiKaguya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YamaiKaguya&custom_title=Lifetime%20Stats&bg_color=87c981&line=false&border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 📂 My Projects
 
