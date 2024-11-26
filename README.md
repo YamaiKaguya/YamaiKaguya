@@ -18,7 +18,7 @@
 [![YamaiKaguya's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YamaiKaguya&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 [![Naereen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YamaiKaguya&bg_color=0d0e12&color=1c81ce&line=0f1129&point=079ae4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 -->	
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm YamaiKaguya 👋
 
 Welcome to my GitHub profile! I'm a passionate developer and open-source contributor. Feel free to explore my repositories, projects, and contributions.
 
@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I'm a passionate developer and open-source contrib
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YamaiKaguya&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 📂 My Projects
 
