@@ -48,13 +48,12 @@ Welcome to my GitHub profile! I'm a passionate developer and open-source contrib
 Here are some of the projects I’ve worked on:
 
 - [Winter Website](https://github.com/YamaiKaguya/project1)  
-  A brief description of what this project does and technologies used.
-  	![alt text]("C:\Users\thfre\OneDrive\Pictures\Screenshots\Screenshot1.png")
+  e-commerce
 
 - [White Horizon](https://github.com/YamaiKaguya/project2)  
-  A brief description of this project.
+  hotel booking 
 
-## 🌱 Currently Learning
+## 🌱 Currently Learning (In-dept?)
 
 - [JavaScript](#)
 - [React Js](#)
