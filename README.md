@@ -23,10 +23,10 @@
 Welcome to my GitHub profile! I'm a passionate developer and open-source contributor. Feel free to explore my repositories, projects, and contributions.
 
 ## 🚀 About Me
-- 💻 I'm a full-stack developer focused on building scalable web applications.
-- 🌱 Currently learning [mention any new technologies you're learning].
-- 🎯 My goal is to continuously improve my skills and contribute to the community.
-- ⚡ Fun fact: I love solving coding challenges and exploring new tech.
+- 💻 I'm a Web developer focused on building scalable web applications.
+- 🌱 Currently learning React Js, Typescript, MongoDb.
+- 🎯 My goal is to continuously improve my skills and land a job :).
+<!-- -->- ⚡ Fun fact:
 
 ## 🛠️ Technologies & Tools
 
@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I'm a passionate developer and open-source contrib
 
 ## 📈 GitHub Stats
 
-[![YamaiKaguya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YamaiKaguya&custom_title=Lifetime%20Stats&bg_color=0d1117&point=D3D3D3&border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![YamaiKaguya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YamaiKaguya&custom_title=Lifetime%20Stats&bg_color=0d1117&point=D3D3D3&border=true&color=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- -->![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YamaiKaguya&layout=compact&theme=dark)
 
@@ -58,6 +58,7 @@ Here are some of the projects I’ve worked on:
 - [JavaScript](#)
 - [React Js](#)
 - [MongoDb](#)
+- [Typescript](#)
 
 ## 🤝 Let's Connect
 
