@@ -34,7 +34,7 @@ I'm **YamaiKaguya** a developer and open-source enthusiast who loves making webs
 ![Languages](https://img.shields.io/badge/Technologies-JavaScript-blue?logo=javascript)
 ![Frontend](https://img.shields.io/badge/Frontend-React-blue?logo=react)
 ![Backend](https://img.shields.io/badge/Backend-Node.js-green?logo=node.js)
-![Databases](https://img.shields.io/badge/Databases-Sql-blue?logo=MySql)
+![Databases](https://img.shields.io/badge/Databases-Sql/MongoDb-blue?logo=MySql)
 ![DevOps](https://img.shields.io/badge/DevOps-Docker-blue?logo=docker)
 ![Version Control](https://img.shields.io/badge/Version%20Control-Git-orange?logo=git)
 ![Development](https://img.shields.io/badge/Development-Visual%20Studio-blue?logo=visualstudio)
