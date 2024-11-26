@@ -43,7 +43,7 @@ I'm **YamaiKaguya** a developer and open-source enthusiast who loves building an
 > <p align="center">
 > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YamaiKaguya&langs_count=4&layout=compact&theme=custom&title_color=ffffff&text_color=cccccc&icon_color=975093&bg_color=0d1117&border_color=878784&border_radius=0&langs_colors=HTML:%23FF5733,CSS:%2341A6D9,JavaScript:%23F1C232,PHP:%238A2BE2" width="35%" height="15%" />
 > &nbsp;&nbsp;&nbsp;
-> <img src="https://github-readme-stats.vercel.app/api?username=YamaiKaguya&title_color=ffffff&text_color=cccccc&icon_color=975093&show_icons=true&border_color=878784&border_radius=0&theme=transparent" width="38.5%" />
+> <img src="https://github-readme-stats.vercel.app/api?username=YamaiKaguya&title_color=ffffff&text_color=cccccc&icon_color=975093&show_icons=true&border_color=878784&border_radius=0&theme=transparent" width="39%" />
 > </p>
 
 
