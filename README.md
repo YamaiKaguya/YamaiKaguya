@@ -20,7 +20,7 @@
 -->	
 # Hi! 🎉 I’m glad you’re here. 👋
 
-I'm a developer and open-source enthusiast who loves building and collaborating. Check out my projects and let’s create something amazing!
+I'm **YamaiKaguya** a developer and open-source enthusiast who loves building and collaborating. Check out my projects and let’s create something amazing!
 
 ## 🚀 About Me
 - 💻 I'm a Web developer focused on building scalable web applications.
