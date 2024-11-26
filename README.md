@@ -15,6 +15,7 @@
 [![GitHub commits](https://img.shields.io/github/commits-since/YamaiKaguya/StrapDown.js/v1.0.0.svg)](https://GitHub.com/YamaiKaguya/StrapDown.js/commit/)
 
 -->	
+![Profile views](https://komarev.com/ghpvc/?username=YamaiKaguya)
 
 # Hi! 🎉 I’m glad you’re here. 👋
 
