@@ -15,4 +15,4 @@
 -->	
 
 
-[![Stargazers over time](https://starchart.cc/Naereen/badges.svg)](https://starchart.cc/Naereen/badges)
+[![Stargazers over time](https://starchart.cc/YamaiKaguya/badges.svg)](https://starchart.cc/YamaiKaguya/badges)
