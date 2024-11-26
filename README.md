@@ -42,7 +42,8 @@ I'm **YamaiKaguya** a developer and open-source enthusiast who loves building an
 ## 📈 GitHub Stats
 
 [![YamaiKaguya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YamaiKaguya&custom_title=YamaiKaguya's%20Github%20Contributions&bg_color=0d1117&point=D3D3D3&border=true&color=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Most Used Language](https://img.shields.io/badge/Most%20Used%20Language-Python-blue?logo=python)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
 
 <!-- -->![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YamaiKaguya&layout=compact&theme=dark)
 
