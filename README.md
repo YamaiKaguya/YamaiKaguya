@@ -47,25 +47,21 @@ Welcome to my GitHub profile! I'm a passionate developer and open-source contrib
 
 Here are some of the projects I’ve worked on:
 
-- [Project 1 Name](https://github.com/YamaiKaguya/project1)  
+- [Winter Website](https://github.com/YamaiKaguya/project1)  
   A brief description of what this project does and technologies used.
 
-- [Project 2 Name](https://github.com/YamaiKaguya/project2)  
+- [White Horizon](https://github.com/YamaiKaguya/project2)  
   A brief description of this project.
-
-- [Project 3 Name](https://github.com/YamaiKaguya/project3)  
-  Short project description and key features.
 
 ## 🌱 Currently Learning
 
-- [Technology 1](https://link-to-resource.com)
-- [Technology 2](https://link-to-resource.com)
+- [MongoDb](https://link-to-resource.com)
+- [Somgthin](https://link-to-resource.com)
 
 ## 🤝 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/yourlinkedin)
-- [Twitter](https://twitter.com/yourhandle)
-- [Personal Website/Portfolio](https://yourportfolio.com)
+- [Discord yamai#YamaiKaguya](https://discord.com/)
+- [Personal Website/Portfolio (Nein)](https://yourportfolio.com)
 
 ## 💬 Ask me about
 
