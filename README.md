@@ -41,6 +41,8 @@ Welcome to my GitHub profile! I'm a passionate developer and open-source contrib
 
 [![YamaiKaguya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YamaiKaguya&custom_title=Lifetime%20Stats&bg_color=0d1117&point=D3D3D3&border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YamaiKaguya&layout=compact&theme=dark)
+
 ## 📂 My Projects
 
 Here are some of the projects I’ve worked on:
