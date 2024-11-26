@@ -77,7 +77,7 @@ Here are some of the projects I’ve worked on:
 
 
 <!-- If you'd like to use a custom badge, you can do so with the following markdown -->
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername.profile)](https://github.com/YamaiKaguya)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=YamaiKaguya.profile)](https://github.com/YamaiKaguya)
 
 
 
