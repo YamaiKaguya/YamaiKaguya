@@ -55,13 +55,14 @@ Here are some of the projects I’ve worked on:
 
 ## 🌱 Currently Learning
 
-- [MongoDb](https://link-to-resource.com)
-- [Somgthin](https://link-to-resource.com)
+- [JavaScript](#)
+- [React Js](#)
+- [MongoDb](#)
 
 ## 🤝 Let's Connect
 
 - [Discord yamai#YamaiKaguya](https://discord.com/)
-- [Personal Website/Portfolio (Nein)](https://yourportfolio.com)
+- [Personal Website/Portfolio (Nein)](#)
 
 ## 💬 Ask me about
 
