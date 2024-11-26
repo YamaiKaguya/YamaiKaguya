@@ -18,9 +18,9 @@
 [![YamaiKaguya's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YamaiKaguya&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 [![Naereen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YamaiKaguya&bg_color=0d0e12&color=1c81ce&line=0f1129&point=079ae4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 -->	
-# Sup there, I'm YamaiKaguya 👋
+# Hi! 🎉 I’m glad you’re here. 👋
 
-Hi! 🎉 I’m glad you’re here. I'm a developer and open-source enthusiast who loves building and collaborating. Check out my projects and let’s create something amazing!
+I'm a developer and open-source enthusiast who loves building and collaborating. Check out my projects and let’s create something amazing!
 
 ## 🚀 About Me
 - 💻 I'm a Web developer focused on building scalable web applications.
