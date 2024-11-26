@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I'm a passionate developer and open-source contrib
 
 ## 📈 GitHub Stats
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YamaiKaguya&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 📂 My Projects
 
