@@ -42,10 +42,11 @@ I'm **YamaiKaguya** a developer and open-source enthusiast who loves building an
 ## 📈 GitHub Stats
 
 [![YamaiKaguya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YamaiKaguya&custom_title=YamaiKaguya's%20Github%20Contributions&bg_color=0d1117&point=D3D3D3&border=true&color=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<p align="center" display="flex" justify-content="space-between">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YamaiKaguya&langs_count=4&layout=compact&theme=custom&title_color=ffffff&text_color=cccccc&icon_color=B95CF4&bg_color=0d1117&border_color=878784&border_radius=0" width="40%" height="15%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YamaiKaguya&langs_count=4&layout=compact&theme=custom&title_color=ffffff&text_color=cccccc&icon_color=B95CF4&bg_color=0d1117&border_color=878784&border_radius=0" width="40%" height="15%" style="margin-right: 20px;" />
   <img src="https://github-readme-stats.vercel.app/api?username=YamaiKaguya&title_color=ffffff&text_color=cccccc&show_icons=true&border_color=878784&border_radius=0&theme=transparent" width="45%" />
 </p>
+
 
 
 
