@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm a passionate developer and open-source contrib
 ![Languages](https://img.shields.io/badge/Technologies-JavaScript-blue?logo=javascript)
 ![Frontend](https://img.shields.io/badge/Frontend-React-blue?logo=react)
 ![Backend](https://img.shields.io/badge/Backend-Node.js-green?logo=node.js)
-![Databases](https://img.shields.io/badge/Databases-PostgreSQL-blue?logo=postgresql)
+![Databases](https://img.shields.io/badge/Databases-Sql-blue?logo=MySql)
 ![DevOps](https://img.shields.io/badge/DevOps-Docker-blue?logo=docker)
 ![Version Control](https://img.shields.io/badge/Version%20Control-Git-orange?logo=git)
 
