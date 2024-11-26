@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I'm a passionate developer and open-source contrib
 
 ## 📈 GitHub Stats
 
-[![YamaiKaguya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YamaiKaguya&custom_title=YamaiKaguya's%Github%20Contributions&bg_color=0d1117&point=D3D3D3&border=true&color=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![YamaiKaguya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YamaiKaguya&custom_title=YamaiKaguya's%20Github%20Contributions&bg_color=0d1117&point=D3D3D3&border=true&color=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- -->![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YamaiKaguya&layout=compact&theme=dark)
 
