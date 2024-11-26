@@ -68,9 +68,6 @@ Here are some of the projects I’ve worked on:
 ## 💬 Ask me about
 
 - Web development (React, Node.js, etc.)
-- JavaScript
-- Open-source contribution
-- Any other topic you're passionate about!
 
 ---
 
@@ -78,12 +75,9 @@ Here are some of the projects I’ve worked on:
 
 ---
 
-Feel free to reach out if you need help with anything or just want to chat!
-
----
 
 <!-- If you'd like to use a custom badge, you can do so with the following markdown -->
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername.profile)](https://github.com/yourusername)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername.profile)](https://github.com/YamaiKaguya)
 
 
 
