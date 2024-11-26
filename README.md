@@ -36,6 +36,8 @@ I'm **YamaiKaguya** a developer and open-source enthusiast who loves building an
 ![Databases](https://img.shields.io/badge/Databases-Sql-blue?logo=MySql)
 ![DevOps](https://img.shields.io/badge/DevOps-Docker-blue?logo=docker)
 ![Version Control](https://img.shields.io/badge/Version%20Control-Git-orange?logo=git)
+![Development](https://img.shields.io/badge/Development-Visual%20Studio-blue?logo=VisualStudio)
+
 
 ## 📈 GitHub Stats
 
