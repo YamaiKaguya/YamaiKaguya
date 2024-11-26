@@ -17,4 +17,4 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/YamaiKaguya?tab=followers)
 
-[![YamaiKaguya's github trophy](https://github-profile-trophy.vercel.app/?username=Naereen&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![YamaiKaguya's github stats](https://github-readme-stats.vercel.app/api?username=YamaiKaguya&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
