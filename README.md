@@ -20,3 +20,4 @@
 [![YamaiKaguya's github stats](https://github-readme-stats.vercel.app/api?username=YamaiKaguya&theme=blue-green)](https://github.com/YamaiKaguya/github-readme-stats)
 
 [![YamaiKaguya's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YamaiKaguya&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Naereen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YamaiKaguya&bg_color=0d0e12&color=1c81ce&line=0f1129&point=079ae4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
