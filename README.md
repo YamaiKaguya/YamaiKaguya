@@ -19,9 +19,9 @@
   <img src="https://komarev.com/ghpvc/?username=YamaiKaguya" />
 </p>
 
-# Hi! 🎉 I’m glad you’re here. 👋
+# Hi! 🎉 I’m glad you’re here.
 
-I'm **YamaiKaguya** a developer and open-source enthusiast who loves making website. 
+"I'm **YamaiKaguya**, a developer and open-source enthusiast who loves creating websites. 
 
 ## 🚀 About Me
 - 💻 I'm a Web developer focused on building scalable web applications.
