@@ -27,7 +27,7 @@ I'm **YamaiKaguya** a developer and open-source enthusiast who loves making webs
 - 💻 I'm a Web developer focused on building scalable web applications.
 - 🌱 Currently learning React Js, Typescript, MongoDb in-dept.
 - 🎯 My goal is to continuously improve my skills and land a job :).
-- ⚡ Fun fact: JavaScript was originally called "Mocha"!.
+- ⚡ Fun fact: JavaScript was originally called "Mocha!".
 
 ## 🛠️ Technologies & Tools
 
