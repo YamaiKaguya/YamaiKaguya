@@ -19,7 +19,7 @@
   <img src="https://komarev.com/ghpvc/?username=YamaiKaguya" />
 </p>
 
-# Hello, World! 🌍 I'm Frewen Dalisay
+# Hello, World! 🌍 I'm Frewen Rei Dalisay
 
 I'm a **Web Developer** on a mission to build **innovative**, **scalable** web applications that make an impact.  
 
