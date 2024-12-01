@@ -37,25 +37,20 @@
 ![Databases](https://img.shields.io/badge/Databases-Sql/MongoDb-blue?logo=MySql)
 ![DevOps](https://img.shields.io/badge/DevOps-Docker-blue?logo=docker)
 ![Version Control](https://img.shields.io/badge/Version%20Control-Git-orange?logo=git)
-![Development](https://img.shields.io/badge/Development-Visual%20Studio-blue?logo=visualstudio)
+
 
 
 ## 📈 GitHub Stats
 
 [![YamaiKaguya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YamaiKaguya&custom_title=YamaiKaguya's%20Github%20Contributions&bg_color=0d1117&point=D3D3D3&border=true&color=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YamaiKaguya&langs_count=6&layout=compact&theme=custom&title_color=ffffff&text_color=cccccc&icon_color=975093&bg_color=0d1117&border_color=878784&border_radius=0&langs_colors=HTML:%23FF5733,CSS:%2341A6D9,JavaScript:%23F1C232,PHP:%238A2BE2" width="35%" height="15%" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=YamaiKaguya&title_color=ffffff&text_color=cccccc&icon_color=975093&show_icons=true&border_color=878784&border_radius=0&theme=transparent" width="46%" />
+<!--
+
+![Development](https://img.shields.io/badge/Development-Visual%20Studio-blue?logo=visualstudio)
+
+<p align="center" style="display: flex; justify-content: space-between; width: 100%; margin: 0; padding: 0;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YamaiKaguya&langs_count=6&layout=compact&theme=custom&title_color=ffffff&text_color=cccccc&icon_color=975093&bg_color=0d1117&border_color=878784&border_radius=0&langs_colors=HTML:%23FF5733,CSS:%2341A6D9,JavaScript:%23F1C232,PHP:%238A2BE2" style="width: min-height:  50%; margin: 0;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YamaiKaguya&title_color=ffffff&text_color=cccccc&icon_color=975093&show_icons=true&border_color=878784&border_radius=0&theme=transparent" style=" min-height: 50%; margin: 0;" />
 </p>
-
-
-
-
-
-
-
-
 
 
  ## 📂 My Projects
@@ -80,7 +75,7 @@ Here are some of the projects I’ve worked on:
 - [Discord yamai#YamaiKaguya](https://discord.com/)
 - [Personal Website/Portfolio (Nein)](#)
 
-<!-- 
+
 ## 💬 Ask me about
 
 - Web development (React, Node.js, etc.)
@@ -93,7 +88,10 @@ Here are some of the projects I’ve worked on:
 
 
 <!-- If you'd like to use a custom badge, you can do so with the following markdown -->
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=YamaiKaguya.profile)](https://github.com/YamaiKaguya)
+<a href="https://github.com/YamaiKaguya">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=YamaiKaguya.profile" alt="Visitors" />
+</a>
+
 
 
 
