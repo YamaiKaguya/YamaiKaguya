@@ -19,16 +19,34 @@
   <img src="https://komarev.com/ghpvc/?username=YamaiKaguya" />
 </p>
 
-# Hi! 🎉 I’m glad you’re here.
+# Hello, World! 🌍 I'm Frewen Dalisay
 
-"I'm **YamaiKaguya**, a developer and open-source enthusiast who loves creating websites. 
+I'm a **Web Developer** on a mission to build **innovative**, **scalable** web applications that make an impact.  
 
-## 🚀 About Me
-- 💻 I'm a Web developer focused on building scalable web applications.
-- 🌱 Currently learning React Js, Typescript, MongoDb in-dept.
-- 🎯 My goal is to continuously improve my skills and land a job :).
-- ⚡ Fun fact: JavaScript was originally called "Mocha!".
+---
 
+## 🛠️ What I Do
+
+- 💻 **Crafting web experiences**: From user-friendly interfaces to robust backend systems.
+- 🌱 **Learning**: Currently mastering **React JS**, **Typescript**, and **MongoDB** to build full-stack applications.
+- ⚡ **Passion for performance**: Always optimizing for speed, efficiency, and smooth UX.
+- 🧠 **Problem Solver**: Every bug is an opportunity to learn and grow.
+
+---
+
+## 🌟 My Goal
+
+To **grow as a developer** and contribute to projects that **shape the web**.  
+I'm always exploring new ideas, learning cutting-edge technologies, and pushing myself to take on **bigger challenges**.
+
+---
+
+## 🌱 A Little Fun Fact
+
+Did you know? JavaScript was **originally called "Mocha"**!  
+Now it’s one of the most powerful languages on the web. If I could go back in time, I'd want to be there for the name change. 😄
+
+---
 ## 🛠️ Technologies & Tools
 
 ![Languages](https://img.shields.io/badge/Technologies-JavaScript-blue?logo=javascript)
