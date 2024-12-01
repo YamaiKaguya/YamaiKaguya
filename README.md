@@ -100,7 +100,9 @@ Here are some of the projects I’ve worked on:
 -->
 ---
 
+<p align="center">
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
+</p>
 
 ---
 
