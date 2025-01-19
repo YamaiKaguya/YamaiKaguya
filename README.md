@@ -25,26 +25,12 @@ I'm a **Web Developer** on a mission to build **innovative**, **scalable** web a
 
 ---
 
-## 🛠️ What I Do
-
-- 💻 **Crafting web experiences**: From user-friendly interfaces to robust backend systems.
-- 🌱 **Learning**: Currently mastering **React JS**, **Typescript**, and **MongoDB** to build full-stack applications.
-- ⚡ **Passion for performance**: Always optimizing for speed, efficiency, and smooth UX.
-- 🧠 **Problem Solver**: Every bug is an opportunity to learn and grow.
-
----
-
 ## 🌟 My Goal
 
 To **grow as a developer** and contribute to projects that **shape the web**.  
 I'm always exploring new ideas, learning cutting-edge technologies, and pushing myself to take on **bigger challenges**.
 
----
 
-## 🌱 A Little Fun Fact
-
-Did you know? JavaScript was **originally called "Mocha"**!  
-Now it’s one of the most powerful languages on the web. If I could go back in time, I'd want to be there for the name change. 😄
 
 ---
 ## 🛠️ Technologies & Tools
