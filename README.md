@@ -19,18 +19,14 @@
   <img src="https://komarev.com/ghpvc/?username=YamaiKaguya" />
 </p>
 
-# Hello, World! 🌍 I'm Frewen Rei Dalisay
-
+ʜᴇʟʟᴏ, ᴡᴏʀʟᴅ! 🌍ɪ'ᴍ ꜰʀᴇᴡᴇɴ ʀᴇɪ ᴅᴀʟɪꜱᴀʏ 
 ---
-
-## 🌟 Goal
-
-To **grow as a developer**.  
+ᴀ ᴘʀᴏɢʀᴀᴍᴍᴇʀ ꜰᴏᴄᴜꜱᴇᴅ ᴏɴ ʙᴜɪʟᴅɪɴɢ ᴡᴇʙ ᴀᴘᴘʟɪᴄᴀᴛɪᴏɴꜱ, ᴡɪᴛʜ ᴀ ꜱᴏʟᴇ ɢᴏᴀʟ ᴛᴏ ɢʀᴏᴡ ᴀꜱ ᴀ ᴅᴇᴠᴇʟᴏᴘᴇʀ.
 
 
----
-## 🛠️ Technologies & Tools
+ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ & ᴛᴏᴏʟꜱ:
 
+![Languages](https://img.shields.io/badge/DE-Arch-blue?logo=linux)
 ![Languages](https://img.shields.io/badge/Technologies-JavaScript-blue?logo=javascript)
 ![Frontend](https://img.shields.io/badge/Frontend-React-blue?logo=react)
 ![Backend](https://img.shields.io/badge/Backend-Node.js-green?logo=node.js)
@@ -39,7 +35,4 @@ To **grow as a developer**.
 ![Version Control](https://img.shields.io/badge/Version%20Control-Git-orange?logo=git)
 
 
-<p align="center" style="display: flex; justify-content: space-between; width: 100%; margin: 0; padding: 0;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YamaiKaguya&langs_count=6&layout=compact&theme=custom&title_color=ffffff&text_color=cccccc&icon_color=975093&bg_color=0d1117&border_color=878784&border_radius=0&langs_colors=HTML:%23FF5733,CSS:%2341A6D9,JavaScript:%23F1C232,PHP:%238A2BE2" style="width: min-height:  50%; margin: 0;" />
-</p>
 
