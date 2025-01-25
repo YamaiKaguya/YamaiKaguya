@@ -27,7 +27,8 @@
 ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ & ᴛᴏᴏʟꜱ:
 
 ![OS](https://img.shields.io/badge/OS-Linux-blue?logo=linux)
-![CLI](https://img.shields.io/badge/CLI-WSL-blue?logo=wsl)  <!-- -->
+![CLI](https://img.shields.io/badge/CLI-WSL-blue?logo=wsl)
+![CLI](https://img.shields.io/badge/Editor-VS%20Code-blue?logo=vscode) <!-- -->
 ![Markup](https://img.shields.io/badge/Markup-HTML-orange?logo=html5)
 ![Styling](https://img.shields.io/badge/Styling-CSS-blue?logo=css3)
 ![Technology](https://img.shields.io/badge/Technology-JavaScript-yellow?logo=javascript)
@@ -37,15 +38,15 @@
 ![Backend](https://img.shields.io/badge/Backend-Express.js-green?logo=express)
 ![Databases](https://img.shields.io/badge/Database-MySQL-blue?logo=mysql)
 ![Databases](https://img.shields.io/badge/Database-MongoDB-blue?logo=mongodb)
-![DevOps](https://img.shields.io/badge/DevOps-Docker-blue?logo=docker)
 ![Version Control](https://img.shields.io/badge/Version_Control-Git-orange?logo=git)
 ![DevOps](https://img.shields.io/badge/Library-Bootsrap-blue?logo=bootstrap)
 ![DevOps](https://img.shields.io/badge/Styling-TailwindCSS-blue?logo=TailwindCSS)
-![DevOps](https://img.shields.io/badge/preprocessor-sass-blue?logo=sass)
 
 
 ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ & ᴇxᴘʟᴏʀɪɴɢ:
 
+![DevOps](https://img.shields.io/badge/DevOps-Docker-blue?logo=docker)
+![DevOps](https://img.shields.io/badge/preprocessor-sass-blue?logo=sass)
 ![DevOps](https://img.shields.io/badge/DevOps-GTK-blue?logo=gtk)
 ![DevOps](https://img.shields.io/badge/Interpreter-Bash-blue?logo=gnubash)
 ![Version Control](https://img.shields.io/badge/Runtime-bun-orange?logo=bun)
