@@ -19,18 +19,16 @@
   <img src="https://komarev.com/ghpvc/?username=YamaiKaguya" />
 </p>
 
-<h1 align="center">
-ʜᴇʟʟᴏ, ᴡᴏʀʟᴅ! 🌍 ɪ'ᴍ ꜰʀᴇᴡᴇɴ ʀᴇɪ ᴅᴀʟɪꜱᴀʏ
-</h1>
-
+# ʜᴇʟʟᴏ, ᴡᴏʀʟᴅ! 🌍 ɪ'ᴍ ꜰʀᴇᴡᴇɴ ʀᴇɪ ᴅᴀʟɪꜱᴀʏ
 
     🤷 ᴀʙᴏᴜᴛ: ɪᴍ ᴀ ᴘʀᴏɢʀᴀᴍᴍᴇʀ ᴡʜᴏ ʟɪᴋᴇꜱ ᴛᴏ ᴇxᴘʟᴏʀᴇ ᴛᴇᴄʜ. 
     ⭐ ꜱᴘᴇᴄɪᴀʟʟɪᴛʏ: ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ 
     🥅 ɢᴏᴀʟ: ᴛᴏ ɢʀᴏᴡ ᴀꜱ ᴀ ᴅᴇᴠᴇʟᴏᴘᴇʀ.
     ⚡ ꜰᴜɴ ꜰᴀᴄᴛ: ɪ ʟᴏᴠᴇ ᴛᴏ ʟɪꜰᴛ ᴡᴇɪɢʜᴛꜱ ᴀɴᴅ ᴡᴀᴛᴄʜ ᴀɴɪᴍᴇꜱ
     
-<h2 align="center">ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ:</h2>
-<div align="center">
+### 💻 ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ::
+
+<div align="left">
  
   ![CLI](https://img.shields.io/badge/CLI-WSL-blue?logo=wsl)
   ![CLI](https://img.shields.io/badge/Editor-VS%20Code-blue?logo=vscode) <!-- -->
@@ -50,9 +48,9 @@
   
 </div>
 
-<h2 align="center">ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ᴀɴᴅ ᴇxᴘʟᴏʀɪɴɢ:</h2>
+### 📖 ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ᴀɴᴅ ᴇxᴘʟᴏʀɪɴɢ:
 
-<div align="center">
+<div align="left">
 
   ![DevOps](https://img.shields.io/badge/DevOps-Docker-blue?logo=docker)
   ![DevOps](https://img.shields.io/badge/preprocessor-sass-blue?logo=sass)
