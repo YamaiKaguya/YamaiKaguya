@@ -18,12 +18,13 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=YamaiKaguya" />
 </p>
-
-ʜᴇʟʟᴏ, ᴡᴏʀʟᴅ! 🌍ɪ'ᴍ ꜰʀᴇᴡᴇɴ ʀᴇɪ ᴅᴀʟɪꜱᴀʏ 
+<h1 align="center"  style="font-size: 24px;">
+ ʜᴇʟʟᴏ, ᴡᴏʀʟᴅ! 🌍ɪ'ᴍ ꜰʀᴇᴡᴇɴ ʀᴇɪ ᴅᴀʟɪꜱᴀʏ 
+</h1>
 ---
+<h1 align="center">
 ᴀ ᴘʀᴏɢʀᴀᴍᴍᴇʀ ꜰᴏᴄᴜꜱᴇᴅ ᴏɴ ʙᴜɪʟᴅɪɴɢ ᴡᴇʙ ᴀᴘᴘʟɪᴄᴀᴛɪᴏɴꜱ, ᴡɪᴛʜ ᴀ ꜱᴏʟᴇ ɢᴏᴀʟ ᴛᴏ ɢʀᴏᴡ ᴀꜱ ᴀ ᴅᴇᴠᴇʟᴏᴘᴇʀ.
-
-
+ 
 ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ & ᴛᴏᴏʟꜱ:
 
 ![OS](https://img.shields.io/badge/OS-Linux-blue?logo=linux)
@@ -55,6 +56,10 @@
 ![Version Control](https://img.shields.io/badge/Runtime-bun-orange?logo=bun)
 ![Version Control](https://img.shields.io/badge/Tech-Ags-orange?logo=ags)
 ![Version Control](https://img.shields.io/badge/Tech-Astral-orange?logo=astral)
+</h1>
+
+
+
 
 
 
