@@ -43,7 +43,8 @@
   ![Version Control](https://img.shields.io/badge/Version_Control-Git-orange?logo=git)
   ![DevOps](https://img.shields.io/badge/Library-Bootsrap-blue?logo=bootstrap)
   ![DevOps](https://img.shields.io/badge/Styling-TailwindCSS-blue?logo=TailwindCSS)
-  ![DevOps](https://img.shields.io/badge/Bundler-Webpack-blue?logo=webpack)
+  ![DevOps](https://img.shields.io/badge/Bundler-Vite-blue?logo=vite)
+  
   
 </div>
 
