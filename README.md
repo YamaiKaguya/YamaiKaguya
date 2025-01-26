@@ -53,6 +53,8 @@
 ![DevOps](https://img.shields.io/badge/DevOps-GTK-blue?logo=gtk)
 ![DevOps](https://img.shields.io/badge/Interpreter-Bash-blue?logo=gnubash)
 ![Version Control](https://img.shields.io/badge/Runtime-bun-orange?logo=bun)
+![Version Control](https://img.shields.io/badge/Tech-Ags-orange?logo=ags)
+![Version Control](https://img.shields.io/badge/Tech-Astral-orange?logo=astral)
 
 
 
