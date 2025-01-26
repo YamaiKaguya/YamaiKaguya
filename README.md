@@ -21,10 +21,13 @@
 <h1 align="center"  style="font-size: 24px;">
  ʜᴇʟʟᴏ, ᴡᴏʀʟᴅ! 🌍ɪ'ᴍ ꜰʀᴇᴡᴇɴ ʀᴇɪ ᴅᴀʟɪꜱᴀʏ 
 </h1>
----
+
 <h1 align="center">
 ᴀ ᴘʀᴏɢʀᴀᴍᴍᴇʀ ꜰᴏᴄᴜꜱᴇᴅ ᴏɴ ʙᴜɪʟᴅɪɴɢ ᴡᴇʙ ᴀᴘᴘʟɪᴄᴀᴛɪᴏɴꜱ, ᴡɪᴛʜ ᴀ ꜱᴏʟᴇ ɢᴏᴀʟ ᴛᴏ ɢʀᴏᴡ ᴀꜱ ᴀ ᴅᴇᴠᴇʟᴏᴘᴇʀ.
- 
+
+<br>
+<br>
+<br>
 ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ & ᴛᴏᴏʟꜱ:
 
 ![OS](https://img.shields.io/badge/OS-Linux-blue?logo=linux)
