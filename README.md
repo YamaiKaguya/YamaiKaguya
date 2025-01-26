@@ -28,6 +28,7 @@
 
 <div align="left">
  
+  ![CLI](https://img.shields.io/badge/OS-Linux-blue?logo=linux)
   ![CLI](https://img.shields.io/badge/CLI-WSL-blue?logo=wsl)
   ![CLI](https://img.shields.io/badge/Editor-VS%20Code-blue?logo=vscode) <!-- -->
   ![Markup](https://img.shields.io/badge/Markup-HTML-orange?logo=html5)
