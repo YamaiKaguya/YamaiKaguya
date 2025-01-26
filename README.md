@@ -48,6 +48,7 @@
 ![DevOps](https://img.shields.io/badge/Bundler-Webpack-blue?logo=webpack)
 
 ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ & ᴇxᴘʟᴏʀɪɴɢ:
+
 ![DevOps](https://img.shields.io/badge/DevOps-Docker-blue?logo=docker)
 ![DevOps](https://img.shields.io/badge/preprocessor-sass-blue?logo=sass)
 ![DevOps](https://img.shields.io/badge/Tech-GTK-blue?logo=gtk)
