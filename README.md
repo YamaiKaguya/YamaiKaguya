@@ -19,11 +19,17 @@
   <img src="https://komarev.com/ghpvc/?username=YamaiKaguya" />
 </p>
 <h1 align="center"  style="font-size: 24px;">
- ʜᴇʟʟᴏ, ᴡᴏʀʟᴅ! 🌍ɪ'ᴍ ꜰʀᴇᴡᴇɴ ʀᴇɪ ᴅᴀʟɪꜱᴀʏ 
+ ʜᴇʟʟᴏ, ᴡᴏʀʟᴅ! 🌍 ɪ'ᴍ ꜰʀᴇᴡᴇɴ ʀᴇɪ ᴅᴀʟɪꜱᴀʏ  
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 </h1>
 
+🤷 ᴀʙᴏᴜᴛ:  ɪᴍ ᴀ ᴘʀᴏɢʀᴀᴍᴍᴇʀ ᴡʜᴏ ʟɪᴋᴇꜱ ᴛᴏ ᴇxᴘʟᴏʀᴇ ᴛᴇᴄʜ. 
+
+⭐ ꜱᴘᴇᴄɪᴀʟʟɪᴛʏ: ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ 
+
+🎯 ɢᴏᴀʟ: ᴛᴏ ɢʀᴏᴡ ᴀꜱ ᴀ ᴅᴇᴠᴇʟᴏᴘᴇʀ.
+
 <h1 align="center">
-ᴀ ᴘʀᴏɢʀᴀᴍᴍᴇʀ ꜰᴏᴄᴜꜱᴇᴅ ᴏɴ ʙᴜɪʟᴅɪɴɢ ᴡᴇʙ ᴀᴘᴘʟɪᴄᴀᴛɪᴏɴꜱ, ᴡɪᴛʜ ᴀ ꜱᴏʟᴇ ɢᴏᴀʟ ᴛᴏ ɢʀᴏᴡ ᴀꜱ ᴀ ᴅᴇᴠᴇʟᴏᴘᴇʀ.
 
 <br>
 <br>
@@ -58,7 +64,19 @@
 ![Version Control](https://img.shields.io/badge/Tech-Astral-orange?logo=astral)
 </h1>
 
+### :bar_chart: [Coding time in the last month](https://github.com/muety/wakapi)
 
+<!--START_SECTION:waka-->
+
+```txt
+TeX             23 hrs 25 mins  🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   23.63 %
+Python          23 hrs 14 mins  🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   23.44 %
+JavaScript      10 hrs 23 mins  🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.47 %
+Rust            6 hrs 31 mins   🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.58 %
+Markdown        4 hrs 54 mins   🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.94 %
+```
+
+<!--END_SECTION:waka-->
 
 
 
