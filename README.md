@@ -6,7 +6,7 @@
   </a>
     <img src="https://skillicons.dev/icons?i=htmx,sass,jest,jquery,bun&theme=dark" />
   </a>
-</p>
+</p> 
 
 [![Npm package version](https://badgen.net/npm/v/express)](https://npmjs.com/package/express)
 [![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
