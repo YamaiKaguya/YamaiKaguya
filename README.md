@@ -44,6 +44,7 @@
   ![DevOps](https://img.shields.io/badge/Library-Bootsrap-blue?logo=bootstrap)
   ![DevOps](https://img.shields.io/badge/Styling-TailwindCSS-blue?logo=TailwindCSS)
   ![DevOps](https://img.shields.io/badge/Bundler-Vite-blue?logo=vite)
+  ![DevOps](https://img.shields.io/badge/Shell-Bash-blue?logo=bash)
   
   
 </div>
