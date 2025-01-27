@@ -60,7 +60,7 @@
   ![Version Control](https://img.shields.io/badge/Runtime-bun-orange?logo=bun)
   ![Version Control](https://img.shields.io/badge/Tech-AGS-orange?logo=ags)
   ![Version Control](https://img.shields.io/badge/Tech-EWW-orange?logo=eww)
-  ![Version Control](https://img.shields.io/badge/Tech-Astral-orange?logo=astral)
+  ![Version Control](https://img.shields.io/badge/Tech-Astal-orange?logo=astal)
 
 </div>
 
