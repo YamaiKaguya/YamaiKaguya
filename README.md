@@ -54,11 +54,11 @@
 <div align="left">
 
   ![DevOps](https://img.shields.io/badge/DevOps-Docker-blue?logo=docker)
-  ![DevOps](https://img.shields.io/badge/preprocessor-sass-blue?logo=sass)
-  ![DevOps](https://img.shields.io/badge/Tech-GTK-blue?logo=gtk)
+  ![DevOps](https://img.shields.io/badge/preprocessor-Sass-blue?logo=sass)
   ![DevOps](https://img.shields.io/badge/Interpreter-Bash-blue?logo=gnubash)
-  ![Version Control](https://img.shields.io/badge/Tech-AGS-orange?logo=ags)
-  ![Version Control](https://img.shields.io/badge/Tech-Astal-orange?logo=astal)
+  ![DevOps](https://img.shields.io/badge/Toolkit-GTK-blue?logo=gtk)
+  ![Version Control](https://img.shields.io/badge/CShell-AGS-orange?logo=ags)
+  ![Version Control](https://img.shields.io/badge/Library-Astal-orange?logo=astal)
 
 </div>
 
