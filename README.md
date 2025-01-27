@@ -57,9 +57,7 @@
   ![DevOps](https://img.shields.io/badge/preprocessor-sass-blue?logo=sass)
   ![DevOps](https://img.shields.io/badge/Tech-GTK-blue?logo=gtk)
   ![DevOps](https://img.shields.io/badge/Interpreter-Bash-blue?logo=gnubash)
-  ![Version Control](https://img.shields.io/badge/Runtime-bun-orange?logo=bun)
   ![Version Control](https://img.shields.io/badge/Tech-AGS-orange?logo=ags)
-  ![Version Control](https://img.shields.io/badge/Tech-EWW-orange?logo=eww)
   ![Version Control](https://img.shields.io/badge/Tech-Astal-orange?logo=astal)
 
 </div>
