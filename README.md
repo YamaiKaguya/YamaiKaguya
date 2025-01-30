@@ -30,8 +30,11 @@
  
   ![CLI](https://img.shields.io/badge/OS-Linux-blue?logo=linux)
   ![CLI](https://img.shields.io/badge/CLI-WSL-blue?logo=wsl)
+  <!-- 
   ![Markup](https://img.shields.io/badge/Markup-HTML-orange?logo=html5)
   ![Styling](https://img.shields.io/badge/Styling-CSS-blue?logo=css3)
+  -->
+
   ![Technology](https://img.shields.io/badge/Technology-JavaScript-yellow?logo=javascript)
   ![Technology](https://img.shields.io/badge/Technology-TypeScript-blue?logo=typescript)
   ![Frontend](https://img.shields.io/badge/Library-React-blue?logo=react) <!-- -->
