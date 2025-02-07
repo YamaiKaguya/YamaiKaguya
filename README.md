@@ -51,7 +51,7 @@
   
 </div>
 
-### 📖 Interested!:
+### 📖 INTERESTED!:
 
 <div align="left">
 
@@ -65,7 +65,7 @@
 
 </div>
 
-### :bar_chart: [ᴜꜱᴇᴅ ʟᴀɴɢᴜᴀɢᴇ:](https://github.com/muety/wakapi)
+### :bar_chart: [USED LANGUAGES:](https://github.com/muety/wakapi)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
