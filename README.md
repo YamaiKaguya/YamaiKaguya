@@ -19,12 +19,12 @@
   <img src="https://komarev.com/ghpvc/?username=YamaiKaguya" />
 </p>
 
-# ʜᴇʟʟᴏ, ᴡᴏʀʟᴅ! 🌍 ɪ'ᴍ ꜰʀᴇᴡᴇɴ ʀᴇɪ ᴅᴀʟɪꜱᴀʏ
+# HELLO, WORLD! 🌍 I'M FREWEN REI DALISAY
 
-### 🤷 ᴀʙᴏᴜᴛ ᴍᴇ:
-  ɪ'ᴍ ᴀ ᴘʀᴏɢʀᴀᴍᴍᴇʀ ᴡʜᴏ ʟɪᴋᴇꜱ ᴛᴏ ᴇxᴘʟᴏʀᴇ ᴛᴇᴄʜ, ᴡɪᴛʜ ᴀ ꜱᴘᴇᴄɪᴀʟɪᴛʏ ɪɴ ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ.
+### 🤷 ABOUT ME:
+  I'M A PROGRAMMER WHO LIKES TO EXPLORE TECH, WITH A SPECIALITY IN WEB DEVELOPMENT.
 
-### 💻 ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ:
+### 💻 TECHNOLOGIES AND TOOLS:
 
 <div align="left">
  
