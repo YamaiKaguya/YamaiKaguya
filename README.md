@@ -37,8 +37,8 @@
   ![Technology](https://img.shields.io/badge/Technology-JavaScript-yellow?logo=javascript)
   ![Technology](https://img.shields.io/badge/Technology-TypeScript-blue?logo=typescript)
   ![Frontend](https://img.shields.io/badge/Library-React-blue?logo=react) <!-- -->
-  ![Backend](https://img.shields.io/badge/Backend-Node.js-green?logo=node.js)
-  ![Backend](https://img.shields.io/badge/Backend-Express.js-green?logo=express)
+  ![Backend](https://img.shields.io/badge/Environment-Node.js-green?logo=node.js)
+  ![Backend](https://img.shields.io/badge/Library-Express.js-green?logo=express)
   ![Databases](https://img.shields.io/badge/Database-MySQL-blue?logo=mysql)
   ![Databases](https://img.shields.io/badge/Database-MongoDB-blue?logo=mongodb)
   ![Version Control](https://img.shields.io/badge/Version_Control-Git-orange?logo=git)
