@@ -63,6 +63,8 @@
 
 </div>
 
+<figure><embed src="https://wakatime.com/share/@403a8128-f6bb-4f3b-89a3-1611b760e558/147bb9ed-dbc1-408c-9fca-0fa09d4f40ea.svg"></embed></figure>
+
 ### :bar_chart: [USED LANGUAGES:](https://github.com/muety/wakapi)
 
 <!--START_SECTION:waka-->
