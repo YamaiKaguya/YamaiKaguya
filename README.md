@@ -62,10 +62,10 @@
   ![Version Control](https://img.shields.io/badge/Library-Astal-orange?logo=astal)
 
 </div>
-<p align="center">
-  <img src="https://wakatime.com/share/@403a8128-f6bb-4f3b-89a3-1611b760e558/147bb9ed-dbc1-408c-9fca-0fa09d4f40ea.svg" width="400px"> 
+<p align="left">
+  <img src="https://wakatime.com/share/@403a8128-f6bb-4f3b-89a3-1611b760e558/dbacba6b-2bc6-4e69-8078-8adea06aac92.svg" width="600px"> 
 </p>
-### :bar_chart: [USED LANGUAGES:](https://github.com/muety/wakapi)
+<!-- ### :bar_chart: [USED LANGUAGES:](https://github.com/muety/wakapi) -->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
