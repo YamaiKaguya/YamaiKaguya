@@ -16,7 +16,7 @@
 -->	
 
 <p align="right">
-  <img src="https://wakatime.com/badge/user/403a8128-f6bb-4f3b-89a3-1611b760e558.svg" width="170px"> 
+<!--   <img src="https://wakatime.com/badge/user/403a8128-f6bb-4f3b-89a3-1611b760e558.svg" width="170px">  -->
   <img src="https://komarev.com/ghpvc/?username=YamaiKaguya" />
 </p>
 
