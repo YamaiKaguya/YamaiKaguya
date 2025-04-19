@@ -36,14 +36,14 @@
 
   ![Technology](https://img.shields.io/badge/Technology-JavaScript-yellow?logo=javascript)
   ![Technology](https://img.shields.io/badge/Technology-TypeScript-blue?logo=typescript)
-  ![Frontend](https://img.shields.io/badge/Library-React-blue?logo=react) <!-- -->
+  ![Frontend](https://img.shields.io/badge/Framework-React-blue?logo=react) <!-- -->
   ![Backend](https://img.shields.io/badge/Environment-Node.js-green?logo=node.js)
-  ![Backend](https://img.shields.io/badge/Library-Express.js-green?logo=express)
+  ![Backend](https://img.shields.io/badge/Framework-Express.js-green?logo=express)
   ![Databases](https://img.shields.io/badge/Database-MySQL-blue?logo=mysql)
   ![Databases](https://img.shields.io/badge/Database-MongoDB-blue?logo=mongodb)
   ![Version Control](https://img.shields.io/badge/Version_Control-Git-orange?logo=git)
-  ![DevOps](https://img.shields.io/badge/Library-Bootsrap-blue?logo=bootstrap)
-  ![DevOps](https://img.shields.io/badge/Styling-TailwindCSS-blue?logo=TailwindCSS)
+  ![DevOps](https://img.shields.io/badge/Framework-Bootsrap-blue?logo=bootstrap)
+  ![DevOps](https://img.shields.io/badge/Framework-TailwindCSS-blue?logo=TailwindCSS)
   ![DevOps](https://img.shields.io/badge/Bundler-Vite-blue?logo=vite)
 <!--  ![DevOps](https://img.shields.io/badge/Shell-Bash-blue?logo=bash) -->
   
