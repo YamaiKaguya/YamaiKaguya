@@ -20,8 +20,7 @@
 </p>
 
 # HELLO, WORLD! 🌍 I'M FREWEN REI DALISAY
-
-  I'M A PROGRAMMER WHO LIKES TO EXPLORE TECH, WITH A SPECIALITY IN WEB DEVELOPMENT.
+  I'm a Programmer who likes to explore Tech, With a speciality in web development.
 
 ### 💻 TECHNOLOGIES AND TOOLS:
 
