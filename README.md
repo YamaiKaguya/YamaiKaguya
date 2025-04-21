@@ -23,7 +23,7 @@
 # HELLO, WORLD! 🌍 I'M FREWEN REI DALISAY
   I'm a Programmer who likes to explore Tech, With a speciality in web development.
 
-- TECHNOLOGIES AND TOOLS:
+TECHNOLOGIES AND TOOLS:
 
 <div align="left">
  
@@ -45,6 +45,7 @@
   ![DevOps](https://img.shields.io/badge/Framework-Bootsrap-blue?logo=bootstrap)
   ![DevOps](https://img.shields.io/badge/Framework-TailwindCSS-blue?logo=TailwindCSS)
   ![DevOps](https://img.shields.io/badge/Bundler-Vite-blue?logo=vite)
+  ![DevOps](https://img.shields.io/badge/Framework-Electron-skyblue?logo=electron)
 <!--  ![DevOps](https://img.shields.io/badge/Shell-Bash-blue?logo=bash) -->
   
   
