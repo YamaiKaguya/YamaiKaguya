@@ -46,8 +46,8 @@ TECHNOLOGIES AND TOOLS:
 
   ![DevOps](https://img.shields.io/badge/Bundler-Vite-blue?logo=vite)
   ![Version Control](https://img.shields.io/badge/Testing-Jest-red?logo=jest)
-  ![DevOps](https://img.shields.io/badge/Manager-NPM-orange?logo=npm)
-  ![Version Control](https://img.shields.io/badge/Version_Control-Git-orange?logo=git)
+  ![DevOps](https://img.shields.io/badge/PM-NPM-orange?logo=npm)
+  ![Version Control](https://img.shields.io/badge/VC-Git-orange?logo=git)
 <!--
   ![DevOps](https://img.shields.io/badge/Editor-VSCode-blue?logo=visualstudiocode)
   ![DevOps](https://img.shields.io/badge/Formatter-Prettier-red?logo=prettier)
