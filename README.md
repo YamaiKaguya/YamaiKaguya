@@ -41,11 +41,22 @@ TECHNOLOGIES AND TOOLS:
   ![Backend](https://img.shields.io/badge/Framework-Express.js-green?logo=express)
   ![Databases](https://img.shields.io/badge/Database-MySQL-blue?logo=mysql)
   ![Databases](https://img.shields.io/badge/Database-MongoDB-blue?logo=mongodb)
-  ![Version Control](https://img.shields.io/badge/Version_Control-Git-orange?logo=git)
   ![DevOps](https://img.shields.io/badge/Framework-Bootsrap-blue?logo=bootstrap)
   ![DevOps](https://img.shields.io/badge/Framework-TailwindCSS-blue?logo=TailwindCSS)
+
+  ![DevOps](https://img.shields.io/badge/Manager-NPM-orange?logo=npm)
+  ![DevOps](https://img.shields.io/badge/Editor-VSCode-blue?logo=visualstudiocode)
   ![DevOps](https://img.shields.io/badge/Bundler-Vite-blue?logo=vite)
-  ![DevOps](https://img.shields.io/badge/Framework-Electron-skyblue?logo=electron)
+  ![DevOps](https://img.shields.io/badge/Formatter-Prettier-red?logo=prettier)
+  ![Version Control](https://img.shields.io/badge/Version_Control-Git-orange?logo=git)
+  ![Version Control](https://img.shields.io/badge/Hosting-Github-gray?logo=github)
+  ![Version Control](https://img.shields.io/badge/Testing-Jest-red?logo=jest)
+  ![Version Control](https://img.shields.io/badge/API-Postman-orange?logo=postman)
+
+INTERESTED:
+
+  ![DevOps](https://img.shields.io/badge/Framework-Electron-blue?logo=electron)
+  ![DevOps](https://img.shields.io/badge/Framework-Remix-white?logo=remix)
 <!--  ![DevOps](https://img.shields.io/badge/Shell-Bash-blue?logo=bash) -->
   
   
