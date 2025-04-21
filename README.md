@@ -23,7 +23,7 @@
 # HELLO, WORLD! 🌍 I'M FREWEN REI DALISAY
   I'm a Programmer who likes to explore Tech, With a speciality in web development.
 
-### 💻 TECHNOLOGIES AND TOOLS:
+- TECHNOLOGIES AND TOOLS:
 
 <div align="left">
  
@@ -50,21 +50,9 @@
   
 </div>
 
-### 📖 INTERESTED!:
 
-<div align="left">
-
-  ![DevOps](https://img.shields.io/badge/DevOps-Docker-blue?logo=docker)
-  ![DevOps](https://img.shields.io/badge/preprocessor-Sass-blue?logo=sass)
-  ![DevOps](https://img.shields.io/badge/Interpreter-Bash-blue?logo=gnubash)
-  
-  ![DevOps](https://img.shields.io/badge/Toolkit-GTK-blue?logo=gtk)
-  ![Version Control](https://img.shields.io/badge/CShell-AGS-orange?logo=ags)
-  ![Version Control](https://img.shields.io/badge/Library-Astal-orange?logo=astal)
-
-</div>
 <p align="left">
-  <img src="https://wakatime.com/share/@403a8128-f6bb-4f3b-89a3-1611b760e558/dbacba6b-2bc6-4e69-8078-8adea06aac92.svg" width="600px"> 
+<!--   <img src="https://wakatime.com/share/@403a8128-f6bb-4f3b-89a3-1611b760e558/dbacba6b-2bc6-4e69-8078-8adea06aac92.svg" width="600px">  -->
 </p>
 <!-- ### :bar_chart: [USED LANGUAGES:](https://github.com/muety/wakapi) -->
 
