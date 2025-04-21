@@ -44,6 +44,7 @@ TECHNOLOGIES AND TOOLS:
   ![DevOps](https://img.shields.io/badge/Framework-Bootsrap-blue?logo=bootstrap)
   ![DevOps](https://img.shields.io/badge/Framework-TailwindCSS-blue?logo=TailwindCSS)
 
+<!--
   ![DevOps](https://img.shields.io/badge/Manager-NPM-orange?logo=npm)
   ![DevOps](https://img.shields.io/badge/Editor-VSCode-blue?logo=visualstudiocode)
   ![DevOps](https://img.shields.io/badge/Bundler-Vite-blue?logo=vite)
@@ -52,6 +53,7 @@ TECHNOLOGIES AND TOOLS:
   ![Version Control](https://img.shields.io/badge/Hosting-Github-gray?logo=github)
   ![Version Control](https://img.shields.io/badge/Testing-Jest-red?logo=jest)
   ![Version Control](https://img.shields.io/badge/API-Postman-orange?logo=postman)
+-->
 
 INTERESTED:
 
