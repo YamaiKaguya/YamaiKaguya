@@ -27,7 +27,7 @@ TECHNOLOGIES AND TOOLS:
 
 <div align="left">
  
-  ![CLI](https://img.shields.io/badge/OS-Linux-blue?logo=linux)
+  ![CLI](https://img.shields.io/badge/Linux-Arch-blue?logo=linux)
   ![CLI](https://img.shields.io/badge/CLI-WSL-blue?logo=wsl)
   <!-- 
   ![Markup](https://img.shields.io/badge/Markup-HTML-orange?logo=html5)
