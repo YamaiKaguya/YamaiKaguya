@@ -21,7 +21,7 @@
 </p>
 
 # HELLO, WORLD! 🌍 I'M FREWEN REI DALISAY
-  I likes to explore Tech, With a speciality in web development.
+  I am dedicated to advancing my knowledge in technology, focusing on web development.
 
 TECHNOLOGIES AND TOOLS:
 
