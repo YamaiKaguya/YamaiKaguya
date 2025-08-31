@@ -20,7 +20,7 @@
   <img src="https://komarev.com/ghpvc/?username=YamaiKaguya" />
 </p>
 
-# HELLO, WORLD! 🌍 I'M FREWEN REI DALISAY
+# HI! 🌍 I'M FREWEN!
 
   Tech enthusiast, web development specialist, and lifelong learner.
 
