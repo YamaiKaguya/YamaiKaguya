@@ -37,17 +37,21 @@ TECHNOLOGIES AND TOOLS:
 
   ![Technology](https://img.shields.io/badge/Technology-JavaScript-yellow?logo=javascript)
   ![Technology](https://img.shields.io/badge/Technology-TypeScript-blue?logo=typescript)
-  ![Frontend](https://img.shields.io/badge/Framework-React-blue?logo=react) <!-- -->
+  ![Frontend](https://img.shields.io/badge/Framework-React-blue?logo=react) 
+  ![Backend](https://img.shields.io/badge/Framework-Next.js-white?logo=next.js)
   ![Backend](https://img.shields.io/badge/Environment-Node.js-green?logo=node.js)
-  ![Backend](https://img.shields.io/badge/Framework-Express.js-green?logo=express)
+  ![Backend](https://img.shields.io/badge/Framework-Express.js-white?logo=express) 
+  ![DevOps](https://img.shields.io/badge/Framework-Electron-blue?logo=electron)
+
+  ![DevOps](https://img.shields.io/badge/Framework-TailwindCSS-blue?logo=TailwindCSS)
+  
+  <!--
+  ![Backend](https://img.shields.io/badge/Framework-Express.js-green?logo=express) -->
   ![Databases](https://img.shields.io/badge/Database-MySQL-blue?logo=mysql)
   ![Databases](https://img.shields.io/badge/Database-MongoDB-blue?logo=mongodb)
-  ![DevOps](https://img.shields.io/badge/Framework-Bootsrap-blue?logo=bootstrap)
-  ![DevOps](https://img.shields.io/badge/Framework-TailwindCSS-blue?logo=TailwindCSS)
 
-  ![DevOps](https://img.shields.io/badge/Bundler-Vite-blue?logo=vite)
   ![Version Control](https://img.shields.io/badge/Unit_Testing-Jest-red?logo=jest)
-  ![DevOps](https://img.shields.io/badge/Package_Manager-NPM-orange?logo=npm)
+  ![DevOps](https://img.shields.io/badge/Package_Manager-npm-orange?logo=npm)
   ![Version Control](https://img.shields.io/badge/Version_Control-Git-orange?logo=git)
 <!--
   ![DevOps](https://img.shields.io/badge/Editor-VSCode-blue?logo=visualstudiocode)
@@ -58,8 +62,10 @@ TECHNOLOGIES AND TOOLS:
 
 INTERESTED:
 
-  ![DevOps](https://img.shields.io/badge/Framework-Electron-blue?logo=electron)
   ![DevOps](https://img.shields.io/badge/Framework-Remix-white?logo=remix)
+  ![DevOps](https://img.shields.io/badge/ORM-Prisma-white?logo=prisma)
+  ![DevOps](https://img.shields.io/badge/Widget-EWW-white?logo=eww)
+  ![DevOps](https://img.shields.io/badge/Library-Astal-white?logo=astal)
 <!--  ![DevOps](https://img.shields.io/badge/Shell-Bash-blue?logo=bash) -->
   
   
