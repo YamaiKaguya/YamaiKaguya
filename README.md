@@ -56,7 +56,7 @@ TECHNOLOGIES AND TOOLS:
   ![DevOps](https://img.shields.io/badge/Package_Manager-npm-orange?logo=npm)
   ![Version Control](https://img.shields.io/badge/Version_Control-Git-orange?logo=git)
   ![Version Control](https://img.shields.io/badge/CLI-Github-orange?logo=github)
-  ![DevOps](https://img.shields.io/badge/Cashing-redis-red?logo=redis)
+  ![DevOps](https://img.shields.io/badge/Cashing-Redis-red?logo=redis)
   
 <!--
   ![DevOps](https://img.shields.io/badge/Editor-VSCode-blue?logo=visualstudiocode)
