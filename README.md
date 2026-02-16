@@ -44,6 +44,8 @@ TECHNOLOGIES AND TOOLS:
   ![DevOps](https://img.shields.io/badge/Framework-Electron-blue?logo=electron)
 
   ![DevOps](https://img.shields.io/badge/Framework-TailwindCSS-blue?logo=TailwindCSS)
+  ![DevOps](https://img.shields.io/badge/UIF-ChakraUI-green?logo=chakraui)
+  
   
   <!--
   ![Backend](https://img.shields.io/badge/Framework-Express.js-green?logo=express) -->
@@ -53,6 +55,9 @@ TECHNOLOGIES AND TOOLS:
   ![Version Control](https://img.shields.io/badge/Unit_Testing-Jest-red?logo=jest)
   ![DevOps](https://img.shields.io/badge/Package_Manager-npm-orange?logo=npm)
   ![Version Control](https://img.shields.io/badge/Version_Control-Git-orange?logo=git)
+  ![Version Control](https://img.shields.io/badge/CLI-Github-orange?logo=github)
+  ![DevOps](https://img.shields.io/badge/Cashing-redis-red?logo=redis)
+  
 <!--
   ![DevOps](https://img.shields.io/badge/Editor-VSCode-blue?logo=visualstudiocode)
   ![DevOps](https://img.shields.io/badge/Formatter-Prettier-red?logo=prettier)
@@ -62,10 +67,11 @@ TECHNOLOGIES AND TOOLS:
 
 INTERESTED:
 
-  ![DevOps](https://img.shields.io/badge/Framework-Remix-white?logo=remix)
+
   ![DevOps](https://img.shields.io/badge/ORM-Prisma-white?logo=prisma)
-  ![DevOps](https://img.shields.io/badge/Widget-EWW-white?logo=eww)
+  ![DevOps](https://img.shields.io/badge/Iec-TerraForm-purple?logo=terraform)
   ![DevOps](https://img.shields.io/badge/Library-Astal-white?logo=astal)
+  ![DevOps](https://img.shields.io/badge/Technology-Golang-white?logo=go)
 <!--  ![DevOps](https://img.shields.io/badge/Shell-Bash-blue?logo=bash) -->
   
   
