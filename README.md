@@ -71,7 +71,8 @@ INTERESTED:
   ![DevOps](https://img.shields.io/badge/ORM-Prisma-white?logo=prisma)
   ![DevOps](https://img.shields.io/badge/Iec-TerraForm-purple?logo=terraform)
   ![DevOps](https://img.shields.io/badge/Library-Astal-white?logo=astal)
-  ![DevOps](https://img.shields.io/badge/Technology-Golang-white?logo=go)
+  ![DevOps](https://img.shields.io/badge/WebServers-Nginx-white?logo=nginx)
+  ![DevOps](https://img.shields.io/badge/MBroker-Kafka-white?logo=kafka)
 <!--  ![DevOps](https://img.shields.io/badge/Shell-Bash-blue?logo=bash) -->
   
   
