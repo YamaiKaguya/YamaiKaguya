@@ -44,10 +44,10 @@ TECHNOLOGIES AND TOOLS:
   ![DevOps](https://img.shields.io/badge/Framework-Electron-blue?logo=electron)
 
   ![DevOps](https://img.shields.io/badge/Framework-TailwindCSS-blue?logo=TailwindCSS)
-  ![DevOps](https://img.shields.io/badge/UIF-ChakraUI-green?logo=chakraui)
+  <!--  ![DevOps](https://img.shields.io/badge/UIF-ChakraUI-green?logo=chakraui)
   
   
-  <!--
+
   ![Backend](https://img.shields.io/badge/Framework-Express.js-green?logo=express) -->
   ![Databases](https://img.shields.io/badge/Database-MySQL-blue?logo=mysql)
   ![Databases](https://img.shields.io/badge/Database-MongoDB-blue?logo=mongodb)
