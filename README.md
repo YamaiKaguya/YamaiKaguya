@@ -52,13 +52,15 @@ TECHNOLOGIES AND TOOLS:
   ![Databases](https://img.shields.io/badge/Database-MySQL-blue?logo=mysql)
   ![Databases](https://img.shields.io/badge/Database-MongoDB-blue?logo=mongodb)
 
-  ![Version Control](https://img.shields.io/badge/Unit_Testing-Jest-red?logo=jest)
+
   ![DevOps](https://img.shields.io/badge/Package_Manager-npm-orange?logo=npm)
   ![Version Control](https://img.shields.io/badge/Version_Control-Git-orange?logo=git)
   ![Version Control](https://img.shields.io/badge/CLI-Github-orange?logo=github)
-  ![DevOps](https://img.shields.io/badge/Cashing-Redis-red?logo=redis)
+
   
 <!--
+  ![Version Control](https://img.shields.io/badge/Unit_Testing-Jest-red?logo=jest)
+  ![DevOps](https://img.shields.io/badge/Cashing-Redis-red?logo=redis)
   ![DevOps](https://img.shields.io/badge/Editor-VSCode-blue?logo=visualstudiocode)
   ![DevOps](https://img.shields.io/badge/Formatter-Prettier-red?logo=prettier)
   ![Version Control](https://img.shields.io/badge/Hosting-Github-gray?logo=github)
@@ -73,6 +75,7 @@ INTERESTED:
   ![DevOps](https://img.shields.io/badge/Library-Astal-white?logo=astal)
   ![DevOps](https://img.shields.io/badge/WebServers-Nginx-white?logo=nginx)
   ![DevOps](https://img.shields.io/badge/MBroker-Kafka-white?logo=kafka)
+  
 <!--  ![DevOps](https://img.shields.io/badge/Shell-Bash-blue?logo=bash) -->
   
   
