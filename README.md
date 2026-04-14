@@ -37,7 +37,7 @@ TECHNOLOGIES AND TOOLS:
 
   ![Technology](https://img.shields.io/badge/Technology-JavaScript-yellow?logo=javascript)
   ![Technology](https://img.shields.io/badge/Technology-TypeScript-blue?logo=typescript)
-  ![Frontend](https://img.shields.io/badge/Framework-React-blue?logo=react) 
+  ![Frontend](https://img.shields.io/badge/Library-React-blue?logo=react) 
   ![Backend](https://img.shields.io/badge/Framework-Next.js-white?logo=next.js)
   ![Backend](https://img.shields.io/badge/Environment-Node.js-green?logo=node.js)
   ![Backend](https://img.shields.io/badge/Framework-Express.js-white?logo=express) 
