@@ -59,13 +59,14 @@ TECHNOLOGIES AND TOOLS:
   ![Version Control](https://img.shields.io/badge/Version_Control-Git-orange?logo=git)
   ![Version Control](https://img.shields.io/badge/CLI-Github-orange?logo=github)
   ![DevOps](https://img.shields.io/badge/Shell-Bash-blue?logo=gnubash)
-
+  
+<!--
 OTHERS:
 
   ![DevOps](https://img.shields.io/badge/formatter-Prettier-F7B93E?logo=prettier)
   ![DevOps](https://img.shields.io/badge/linter-ESLint-4B32C3?logo=eslint)
   ![DevOps](https://img.shields.io/badge/Deployment-Vercel-000000?logo=vercel)
-<!--
+
   ![Version Control](https://img.shields.io/badge/Unit_Testing-Jest-red?logo=jest)
   ![DevOps](https://img.shields.io/badge/Editor-VSCode-blue?logo=visualstudiocode)
   ![Version Control](https://img.shields.io/badge/API-Postman-orange?logo=postman)
