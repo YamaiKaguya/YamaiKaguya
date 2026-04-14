@@ -30,6 +30,8 @@ TECHNOLOGIES AND TOOLS:
  
   ![CLI](https://img.shields.io/badge/Linux-Arch-blue?logo=linux)
   ![CLI](https://img.shields.io/badge/CLI-WSL-blue?logo=wsl)
+
+
   <!-- 
   ![Markup](https://img.shields.io/badge/Markup-HTML-orange?logo=html5)
   ![Styling](https://img.shields.io/badge/Styling-CSS-blue?logo=css3)
@@ -45,10 +47,10 @@ TECHNOLOGIES AND TOOLS:
 
   ![DevOps](https://img.shields.io/badge/Framework-TailwindCSS-blue?logo=TailwindCSS)
   <!--  ![DevOps](https://img.shields.io/badge/UIF-ChakraUI-green?logo=chakraui)
-  
-  
 
-  ![Backend](https://img.shields.io/badge/Framework-Express.js-green?logo=express) -->
+   ![DevOps](https://img.shields.io/badge/Service-Supabase-blue?logo=supabase)
+   -->
+
   ![Databases](https://img.shields.io/badge/Database-MySQL-blue?logo=mysql)
   ![Databases](https://img.shields.io/badge/Database-MongoDB-blue?logo=mongodb)
 
@@ -56,40 +58,28 @@ TECHNOLOGIES AND TOOLS:
   ![DevOps](https://img.shields.io/badge/Package_Manager-npm-orange?logo=npm)
   ![Version Control](https://img.shields.io/badge/Version_Control-Git-orange?logo=git)
   ![Version Control](https://img.shields.io/badge/CLI-Github-orange?logo=github)
+  ![DevOps](https://img.shields.io/badge/Shell-Bash-blue?logo=gnubash)
 
-  
+OTHERS:
+
+  ![DevOps](https://img.shields.io/badge/formatter-Prettier-F7B93E?logo=prettier)
+  ![DevOps](https://img.shields.io/badge/linter-ESLint-4B32C3?logo=eslint)
+  ![DevOps](https://img.shields.io/badge/Deployment-Vercel-000000?logo=vercel)
 <!--
   ![Version Control](https://img.shields.io/badge/Unit_Testing-Jest-red?logo=jest)
-  ![DevOps](https://img.shields.io/badge/Cashing-Redis-red?logo=redis)
   ![DevOps](https://img.shields.io/badge/Editor-VSCode-blue?logo=visualstudiocode)
-  ![DevOps](https://img.shields.io/badge/Formatter-Prettier-red?logo=prettier)
-  ![Version Control](https://img.shields.io/badge/Hosting-Github-gray?logo=github)
   ![Version Control](https://img.shields.io/badge/API-Postman-orange?logo=postman)
 -->
 
-INTERESTED:
+INTERESTED IN:
 
-
-  ![DevOps](https://img.shields.io/badge/ORM-Prisma-white?logo=prisma)
-  ![DevOps](https://img.shields.io/badge/Iec-TerraForm-purple?logo=terraform)
   ![DevOps](https://img.shields.io/badge/Library-Astal-white?logo=astal)
+  ![DevOps](https://img.shields.io/badge/ORM-Prisma-2D3748?logo=prisma)
   ![DevOps](https://img.shields.io/badge/WebServers-Nginx-white?logo=nginx)
-  ![DevOps](https://img.shields.io/badge/MBroker-Kafka-white?logo=kafka)
-  
-<!--  ![DevOps](https://img.shields.io/badge/Shell-Bash-blue?logo=bash) -->
-  
-  
+  ![DevOps](https://img.shields.io/badge/Cashing-Redis-red?logo=redis)
+  ![DevOps](https://img.shields.io/badge/CMS-prismic-5163BA?logo=prismic)
+    
 </div>
-
-
-<p align="left">
-<!--   <img src="https://wakatime.com/share/@403a8128-f6bb-4f3b-89a3-1611b760e558/dbacba6b-2bc6-4e69-8078-8adea06aac92.svg" width="600px">  -->
-</p>
-<!-- ### :bar_chart: [USED LANGUAGES:](https://github.com/muety/wakapi) -->
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 
 
 
